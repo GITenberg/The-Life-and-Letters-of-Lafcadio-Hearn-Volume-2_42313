@@ -1,0 +1,40 @@
+_repo: The-Life-and-Letters-of-Lafcadio-Hearn-Volume-2_42313
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+covers:
+- cover_type: archival
+  image_path: 42313-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bisland, Elizabeth
+    alias: Wetmore, Elizabeth Bisland
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '41668'
+    url: http://www.gutenberg.org/2009/agents/41668
+description: ''
+gutenberg_issued: '2013-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hearn, Lafcadio, 1850-1904'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+title: The Life and Letters of Lafcadio Hearn, Volume 2
+url: http://www.gutenberg.org/ebooks/42313
